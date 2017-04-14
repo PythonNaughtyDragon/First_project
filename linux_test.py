@@ -1,4 +1,4 @@
-def test():
-    print("aaabbbccc")
+def test(aa):
+    print("aaabbbccc",aa)
 
-test()
+test("ni")
